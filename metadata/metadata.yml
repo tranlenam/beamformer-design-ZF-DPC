@@ -1,0 +1,27 @@
+metadata_version: 1
+name: Beamformer Designs for MISO Broadcast Channels with Zero-Forcing Dirty Paper
+  Coding
+description: |-
+  Simulation code for the following paper:
+
+  Le-Nam Tran, Markku Juntti, Mats Bengtsson, and Björn Ottersten, "Beamformer Designs for MISO Broadcast Channels with Zero-forcing Dirty Paper Coding," IEEE Trans. Wireless Commun., vol. 12, no. 3, pp. 1173-1185, Mar. 2013.
+tags:
+- zero-forcing
+- dirty paper coding
+- beamformer design
+authors:
+- name: Le-Nam Tran
+  affiliations:
+  - name: KTH Royal Institute of Technology
+- name: Markku Juntti
+  affiliations:
+  - name: University of Oulu
+- name: Mats Bengtsson
+  affiliations:
+  - name: KTH Royal Institute of Technology
+- name: Björn Ottersten
+  affiliations:
+  - name: University of Luxembourg
+corresponding_contributor:
+  name: Le-Nam Tran
+  email: nam.tran@ucd.ie
